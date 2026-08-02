@@ -1,7 +1,5 @@
 Transcribed using Gemini
 
-Here is the transcription from the file "Shutters and other specifications.pdf":
-
 ### Fundamentals of Vision Hardware
 
 
