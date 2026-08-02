@@ -1,4 +1,4 @@
-Here is the transcription from the file "Why to use 2 cameras Notes.pdf":
+Transcribed Using Gemini
 
 ### Benefits of using Multiple Cameras
 
